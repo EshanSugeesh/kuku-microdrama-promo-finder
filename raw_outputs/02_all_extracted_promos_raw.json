@@ -1,0 +1,687 @@
+[
+  {
+    "promo_id": "PROMO_EP01_ALTAR_BETRAYAL",
+    "promo_type": "Continuous",
+    "segments": [
+      {
+        "episode": 1,
+        "start_time": "00:11",
+        "end_time": "01:06"
+      }
+    ],
+    "opening_hook_3s": "A cold matriarch blocks the bride mid-aisle, commanding her to turn around because the groom is with another woman.",
+    "cliffhanger_cut": "Cuts immediately after the groom looks the bride in the eye and callously says, 'I changed my mind.'",
+    "standalone_clarity_check": "The visual of a bride in white being stopped by a family member while her groom holds another woman's hand at the altar is universally understood.",
+    "why_it_works": "It utilizes the 'betrayal at the altar' trope with high-voltage dialogue and immediate emotional stakes.",
+    "hook_shock_score": 92,
+    "cliffhanger_tension_score": 90,
+    "standalone_clarity_score": 95,
+    "trope_virality_score": 94,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "PROMO_EP03_STRANGER_RESCUE",
+    "promo_type": "Multi-Segment Stitch",
+    "segments": [
+      {
+        "episode": 3,
+        "start_time": "01:02",
+        "end_time": "01:36"
+      },
+      {
+        "episode": 3,
+        "start_time": "02:16",
+        "end_time": "02:30"
+      }
+    ],
+    "opening_hook_3s": "Royal guards violently seize the bride by the shoulders to drag her out of the church on the Matriarch's orders.",
+    "cliffhanger_cut": "Cuts on a close-up of the bride's tearful, hopeful face as the rugged stranger proposes to her on one knee.",
+    "standalone_clarity_check": "The transition from physical assault/expulsion to a sudden, heroic proposal by a mysterious protector creates a clear 'zero-to-hero' arc.",
+    "why_it_works": "Combines physical action (the guard being knocked out) with the ultimate romance trope: the mysterious powerful stranger claiming the discarded bride.",
+    "hook_shock_score": 96,
+    "cliffhanger_tension_score": 94,
+    "standalone_clarity_score": 88,
+    "trope_virality_score": 98,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "PROMO_EP05_LEDGER_HUMILIATION",
+    "promo_type": "Continuous",
+    "segments": [
+      {
+        "episode": 5,
+        "start_time": "00:50",
+        "end_time": "01:44"
+      }
+    ],
+    "opening_hook_3s": "The stepmother violently snatches a precious family heirloom from the bride and flings it into a mud puddle.",
+    "cliffhanger_cut": "Cuts on the stranger's low, lethal threat to the mocking ex-groom: 'Choose your next words carefully.'",
+    "standalone_clarity_check": "The physical act of throwing a sentimental object into the dirt establishes the villain's cruelty and the hero's protective nature instantly.",
+    "why_it_works": "Rage-baiting through the destruction of a mother's legacy followed by the satisfying intervention of a dangerous protector.",
+    "hook_shock_score": 89,
+    "cliffhanger_tension_score": 87,
+    "standalone_clarity_score": 92,
+    "trope_virality_score": 90,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "PROMO_EP07_THE_BEGGAR_HUSBAND",
+    "promo_type": "Continuous",
+    "segments": [
+      {
+        "episode": 7,
+        "start_time": "01:05",
+        "end_time": "01:32"
+      }
+    ],
+    "opening_hook_3s": "Gerald lunges forward aggressively, pointing his finger directly into Juliana's face with a snarl.",
+    "cliffhanger_cut": "The Scarred Bearded Man towers menacingly over Gerald, who freezes in sheer terror as his bravado vanishes.",
+    "standalone_clarity_check": "The visual contrast between the wealthy, aggressive man and the mud-stained but dignified woman is immediate; the arrival of the 'beggar husband' who is actually a physical powerhouse creates an instant power-dynamic shift.",
+    "why_it_works": "It utilizes the 'hidden powerhouse' trope where a high-status bully is physically intimidated by the protagonist's mysterious husband.",
+    "hook_shock_score": 89,
+    "cliffhanger_tension_score": 94,
+    "standalone_clarity_score": 90,
+    "trope_virality_score": 95,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "PROMO_EP09_SECRET_IDENTITY",
+    "promo_type": "Continuous",
+    "segments": [
+      {
+        "episode": 9,
+        "start_time": "01:36",
+        "end_time": "01:58"
+      }
+    ],
+    "opening_hook_3s": "A servant tells a nobleman there is a rumor of a war veteran who resembles the late Duke.",
+    "cliffhanger_cut": "An extreme macro shot of the nobleman's eye reflecting firelight as he whispers 'Impossible' in paralyzed dread.",
+    "standalone_clarity_check": "The dialogue explicitly sets up the mystery: a dead Duke might be alive and hiding as a scarred veteran.",
+    "why_it_works": "Identity reveals and 'back from the dead' tropes are high-retention hooks for microdrama audiences.",
+    "hook_shock_score": 85,
+    "cliffhanger_tension_score": 91,
+    "standalone_clarity_score": 88,
+    "trope_virality_score": 92,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "PROMO_EP10_WOUNDED_WARRIOR",
+    "promo_type": "Continuous",
+    "segments": [
+      {
+        "episode": 10,
+        "start_time": "00:06",
+        "end_time": "00:45"
+      }
+    ],
+    "opening_hook_3s": "The cottage door bangs open to reveal Alexander panting, clutching a blood-soaked chest.",
+    "cliffhanger_cut": "Juliana's eyes widen in horror as Alexander removes his shirt, revealing a torso covered in jagged battle scars.",
+    "standalone_clarity_check": "A classic 'wounded hero' scene where the female lead must care for the mysterious, battle-hardened male lead.",
+    "why_it_works": "Visceral blood and the reveal of a 'scarred body' are proven high-conversion visual hooks for female-skewing microdrama apps.",
+    "hook_shock_score": 96,
+    "cliffhanger_tension_score": 89,
+    "standalone_clarity_score": 95,
+    "trope_virality_score": 93,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "PROMO_EP11_THE_PLANTED_WATCH",
+    "promo_type": "Continuous",
+    "segments": [
+      {
+        "episode": 11,
+        "start_time": "01:02",
+        "end_time": "01:56"
+      }
+    ],
+    "opening_hook_3s": "Juliana drops to her knees in the mud, frantically trying to salvage her mother's medicines as a Constable violently trashes her home.",
+    "cliffhanger_cut": "A macro shot of the gold pocket watch dangling from the Constable's fingers while the villain erupts into triumphant laughter.",
+    "standalone_clarity_check": "The visual of a home being searched by police while a smug aristocrat watches makes the 'frame-up' trope immediately obvious to any viewer.",
+    "why_it_works": "It combines the 'innocent victim' trope with a high-stakes reveal of planted evidence, triggering immediate protective empathy for the leads.",
+    "hook_shock_score": 88,
+    "cliffhanger_tension_score": 94,
+    "standalone_clarity_score": 90,
+    "trope_virality_score": 92,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "PROMO_EP13_BLOODY_SACRIFICE",
+    "promo_type": "Continuous",
+    "segments": [
+      {
+        "episode": 13,
+        "start_time": "01:11",
+        "end_time": "02:07"
+      }
+    ],
+    "opening_hook_3s": "A massive blackthorn needle stabs deep into the back of Juliana's bleeding hand with a sickening crunch.",
+    "cliffhanger_cut": "Juliana's bloodied fist firmly grips the emerald ring against the frozen ground as she screams in agony and triumph.",
+    "standalone_clarity_check": "The physical pain of the thorns and the man in handcuffs watching helplessly clearly communicate a desperate sacrifice to save a loved one.",
+    "why_it_works": "Extreme physical stakes and 'blood for love' imagery are top-tier performers for high-conversion microdrama ads.",
+    "hook_shock_score": 96,
+    "cliffhanger_tension_score": 91,
+    "standalone_clarity_score": 85,
+    "trope_virality_score": 95,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "PROMO_EP15_VETERANS_RAGE",
+    "promo_type": "Continuous",
+    "segments": [
+      {
+        "episode": 15,
+        "start_time": "00:51",
+        "end_time": "01:32"
+      }
+    ],
+    "opening_hook_3s": "A thug violently shoves Juliana to the ground; she crashes onto wet stone as her bandages soak with fresh blood.",
+    "cliffhanger_cut": "Alexander charges out of the mist with lethal intensity, standing between the thugs and his fallen wife as the music swells.",
+    "standalone_clarity_check": "The 'hero arrives to save the abused wife' is the most recognizable and high-converting trope in the microdrama industry.",
+    "why_it_works": "It delivers the ultimate 'payback' setup, forcing the viewer to click to see the thugs get what they deserve.",
+    "hook_shock_score": 90,
+    "cliffhanger_tension_score": 95,
+    "standalone_clarity_score": 92,
+    "trope_virality_score": 96,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "PROMO_EP19_DUKE_REVEAL",
+    "promo_type": "Continuous",
+    "segments": [
+      {
+        "episode": 19,
+        "start_time": "00:47",
+        "end_time": "01:32"
+      }
+    ],
+    "opening_hook_3s": "A scarred man in a dark coat emerges from the fog and bows deeply to Alexander, addressing him as 'Your Grace'.",
+    "cliffhanger_cut": "Alexander stares into the camera with lethal resolve, vowing that Ashburg will remember who it truly belongs to.",
+    "standalone_clarity_check": "The visual of a rugged, scarred man being addressed as royalty immediately establishes the 'Hidden Identity' trope common in viral dramas.",
+    "why_it_works": "It hits the high-converting 'Secret Identity' and 'Displaced Heir' tropes, promising a massive revenge arc.",
+    "hook_shock_score": 92,
+    "cliffhanger_tension_score": 88,
+    "standalone_clarity_score": 95,
+    "trope_virality_score": 96,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "PROMO_EP18_FIRE_RESCUE",
+    "promo_type": "Multi-Segment Stitch",
+    "segments": [
+      {
+        "episode": 18,
+        "start_time": "00:23",
+        "end_time": "00:33"
+      },
+      {
+        "episode": 18,
+        "start_time": "01:26",
+        "end_time": "01:42"
+      },
+      {
+        "episode": 18,
+        "start_time": "02:55",
+        "end_time": "03:16"
+      }
+    ],
+    "opening_hook_3s": "A violent crash as a bedroom door is kicked open by Alexander, framed against a backdrop of roaring orange flames.",
+    "cliffhanger_cut": "A dramatic close-up of Alexander's face bathed in firelight as he stares into the inferno with unshakeable, lethal fury.",
+    "standalone_clarity_check": "The life-or-death stakes of a house fire and a hero saving a heroine are universally understood without context.",
+    "why_it_works": "High-budget visual tension (fire) combined with the 'Protective Alpha' trope creates maximum emotional engagement.",
+    "hook_shock_score": 95,
+    "cliffhanger_tension_score": 94,
+    "standalone_clarity_score": 90,
+    "trope_virality_score": 92,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "PROMO_EP16_BETRAYAL_REVEAL",
+    "promo_type": "Continuous",
+    "segments": [
+      {
+        "episode": 16,
+        "start_time": "00:20",
+        "end_time": "01:01"
+      }
+    ],
+    "opening_hook_3s": "Alexander catches a heavy wooden club mid-swing with his bare hand, stopping a thug's attack with chilling ease.",
+    "cliffhanger_cut": "The thug screams that 'Gerald Harrington' paid them, and the camera cuts to Juliana's face reeling in devastated disbelief.",
+    "standalone_clarity_check": "The action sequence establishes the hero's power, while the name-drop reveal clearly signals a personal betrayal.",
+    "why_it_works": "Combines visceral physical action with a shocking plot twist regarding a character's betrayal.",
+    "hook_shock_score": 89,
+    "cliffhanger_tension_score": 91,
+    "standalone_clarity_score": 85,
+    "trope_virality_score": 88,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "PROMO_EP23_POISON_DISCOVERY",
+    "promo_type": "Continuous",
+    "segments": [
+      {
+        "episode": 23,
+        "start_time": "01:23",
+        "end_time": "02:19"
+      }
+    ],
+    "opening_hook_3s": "Lady Juliana looks directly at the camera/Prudence and declares with chilling certainty, 'Someone is poisoning her.'",
+    "cliffhanger_cut": "The brass door handle rotates downward and the heavy door cracks open just as Juliana is mid-antidote preparation.",
+    "standalone_clarity_check": "The visual of a frail woman in a canopy bed combined with the explicit 'poison' and 'arsenic' dialogue immediately establishes a high-stakes murder mystery.",
+    "why_it_works": "It combines a shocking medical revelation with the 'imminent capture' trope, creating a double-hook that demands a resolution.",
+    "hook_shock_score": 94,
+    "cliffhanger_tension_score": 96,
+    "standalone_clarity_score": 90,
+    "trope_virality_score": 92,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "PROMO_EP24_THE_WHIP_STRIKE",
+    "promo_type": "Continuous",
+    "segments": [
+      {
+        "episode": 24,
+        "start_time": "00:10",
+        "end_time": "00:45"
+      }
+    ],
+    "opening_hook_3s": "A haughty noblewoman in lavender enters the room tapping a riding crop against her palm, demanding 'Who are you?'",
+    "cliffhanger_cut": "Juliana is hunched over in pain clutching her stomach after being violently struck by the riding crop, while the noblewoman sneers 'You are a maid.'",
+    "standalone_clarity_check": "The power dynamic between the cruel aristocrat and the humble maid is visually and aurally obvious through the riding crop and the physical strike.",
+    "why_it_works": "Rage-baiting through the physical abuse of a protagonist is a top-tier conversion tactic for microdramas.",
+    "hook_shock_score": 92,
+    "cliffhanger_tension_score": 89,
+    "standalone_clarity_score": 95,
+    "trope_virality_score": 96,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "PROMO_EP25_SECRET_INJURY",
+    "promo_type": "Multi-Segment Stitch",
+    "segments": [
+      {
+        "episode": 25,
+        "start_time": "00:17",
+        "end_time": "00:30"
+      },
+      {
+        "episode": 25,
+        "start_time": "01:20",
+        "end_time": "01:33"
+      }
+    ],
+    "opening_hook_3s": "Alexander grabs Juliana's shoulder; she gasps in pain as he pulls back her cloak to reveal a raw, bloody welt.",
+    "cliffhanger_cut": "Juliana whispers 'Arsenic' as Alexander's fist clenches into a white-knuckled, scarred ball of fury.",
+    "standalone_clarity_check": "The transition from a physical wound to the revelation of a poisoning plot creates a clear narrative of a heroine in danger and a protector's rage.",
+    "why_it_works": "It utilizes the 'hidden injury' trope followed by a 'conspiracy reveal,' which targets both the romance and mystery demographics.",
+    "hook_shock_score": 88,
+    "cliffhanger_tension_score": 85,
+    "standalone_clarity_score": 82,
+    "trope_virality_score": 90,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "PROMO_EP26_ROYAL_SIGNET",
+    "promo_type": "Multi-Segment Stitch",
+    "segments": [
+      {
+        "episode": 26,
+        "start_time": "01:34",
+        "end_time": "02:03"
+      },
+      {
+        "episode": 27,
+        "start_time": "00:30",
+        "end_time": "00:53"
+      }
+    ],
+    "opening_hook_3s": "The Dowager Duchess gasps in pure horror, her eyes widening as she stares at a maid's hand.",
+    "cliffhanger_cut": "The Duchess demands the husband's name just as violent pounding echoes on the door and the scene cuts.",
+    "standalone_clarity_check": "A cold viewer immediately understands the 'Secret Identity' trope: a lowly maid is wearing a royal signet ring belonging to the Duchess's lost son.",
+    "why_it_works": "It combines the 'Lost Heir' mystery with a high-stakes medical drama, making the maid's husband the potential key to the entire kingdom.",
+    "hook_shock_score": 88,
+    "cliffhanger_tension_score": 92,
+    "standalone_clarity_score": 90,
+    "trope_virality_score": 95,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "PROMO_EP28_DISGRACED_LADY",
+    "promo_type": "Continuous",
+    "segments": [
+      {
+        "episode": 28,
+        "start_time": "01:14",
+        "end_time": "02:10"
+      }
+    ],
+    "opening_hook_3s": "Lady Catherine ruthlessly yanks a silver locket off the maid's neck, causing her to cry out in pain.",
+    "cliffhanger_cut": "The villainous nobleman orders the guard to drag the 'disgraced daughter' to the wet cells to await the gallows.",
+    "standalone_clarity_check": "The dialogue explicitly reveals the maid is actually a fallen noblewoman ('Lady Juliana Ashcroft') who married a 'penniless veteran.'",
+    "why_it_works": "The 'Hidden Identity' reveal is the highest-converting trope in microdramas, especially when paired with public humiliation.",
+    "hook_shock_score": 91,
+    "cliffhanger_tension_score": 89,
+    "standalone_clarity_score": 94,
+    "trope_virality_score": 96,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "PROMO_EP30_WITCH_FRAME",
+    "promo_type": "Multi-Segment Stitch",
+    "segments": [
+      {
+        "episode": 30,
+        "start_time": "00:37",
+        "end_time": "00:43"
+      },
+      {
+        "episode": 30,
+        "start_time": "01:29",
+        "end_time": "02:21"
+      }
+    ],
+    "opening_hook_3s": "An elder nobleman thrusts a gold-handled cane into a man's chest, pinning him against a wall.",
+    "cliffhanger_cut": "The villains toast to the maid's execution, declaring that tomorrow she will be branded a witch and hanged.",
+    "standalone_clarity_check": "The villains' dialogue clearly outlines their plan to frame an innocent girl for witchcraft to cover up their own poisoning of the Duchess.",
+    "why_it_works": "Viewers are hardwired to rage-watch when a virtuous protagonist is framed by powerful, corrupt villains.",
+    "hook_shock_score": 85,
+    "cliffhanger_tension_score": 94,
+    "standalone_clarity_score": 88,
+    "trope_virality_score": 92,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "PROMO_EP31_POKER_EYE",
+    "promo_type": "Continuous",
+    "segments": [
+      {
+        "episode": 31,
+        "start_time": "02:14",
+        "end_time": "02:45"
+      }
+    ],
+    "opening_hook_3s": "Catherine screams 'Enough!' and slams a red-hot branding iron into the pages of a book, causing it to sizzle and smoke.",
+    "cliffhanger_cut": "An extreme macro close-up of Juliana's trembling eye with the orange ember of the poker reflecting in her pupil, inches from her face.",
+    "standalone_clarity_check": "The visual of a woman in chains being threatened with a hot iron by a woman in a gown clearly establishes a victim/villain dynamic and high physical stakes.",
+    "why_it_works": "It uses the 'torture/interrogation' trope with a high-voltage physical threat that triggers a visceral fear response in viewers.",
+    "hook_shock_score": 94,
+    "cliffhanger_tension_score": 96,
+    "standalone_clarity_score": 90,
+    "trope_virality_score": 92,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "PROMO_EP34_WITCH_TRIAL",
+    "promo_type": "Continuous",
+    "segments": [
+      {
+        "episode": 34,
+        "start_time": "01:29",
+        "end_time": "02:22"
+      }
+    ],
+    "opening_hook_3s": "Juliana slams her iron-cuffed hands against the wooden dock railing, shouting 'It was not a ritual!' over the bang of a gavel.",
+    "cliffhanger_cut": "Juliana stares down the Lord and Judge, declaring 'So I helped them' with steely resolve as the Lord smirks at her impending doom.",
+    "standalone_clarity_check": "A courtroom setting with a prisoner in chains and accusations of 'rituals' and 'poisoning' immediately signals a high-stakes historical drama/witch-hunt plot.",
+    "why_it_works": "The 'wrongfully accused' trope combined with the 'strong female lead' talking back to power is a proven high-converter for female audiences.",
+    "hook_shock_score": 88,
+    "cliffhanger_tension_score": 85,
+    "standalone_clarity_score": 95,
+    "trope_virality_score": 89,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "PROMO_EP31_I_CHOSE_MYSELF",
+    "promo_type": "Continuous",
+    "segments": [
+      {
+        "episode": 31,
+        "start_time": "00:47",
+        "end_time": "01:16"
+      }
+    ],
+    "opening_hook_3s": "Catherine leans into Juliana's face and sneers, 'You became a disgrace when Gerald left you standing at the altar.'",
+    "cliffhanger_cut": "Juliana retorts 'I chose a man' to which Catherine replies 'A scarred nobody' as they glare at each other in the dark cell.",
+    "standalone_clarity_check": "The dialogue explicitly explains the backstory (left at the altar, chose a different man) while showing the current conflict (imprisonment).",
+    "why_it_works": "It hits the 'revenge/redemption' and 'betrayal' tropes perfectly, focusing on the heroine's agency and her choice of a 'nobody' over a wealthy coward.",
+    "hook_shock_score": 85,
+    "cliffhanger_tension_score": 82,
+    "standalone_clarity_score": 92,
+    "trope_virality_score": 94,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "PROMO_EP36_DEATH_SENTENCE",
+    "promo_type": "Continuous",
+    "segments": [
+      {
+        "episode": 36,
+        "start_time": "01:43",
+        "end_time": "02:25"
+      }
+    ],
+    "opening_hook_3s": "Alexander's mother wails 'They arrested her!' in a tight close-up of pure horror and guilt.",
+    "cliffhanger_cut": "The mother delivers the shattering line 'She is to be executed' as the camera holds on Alexander's iron-stiff reaction.",
+    "standalone_clarity_check": "The dialogue explicitly states the protagonist's wife was framed for poisoning and is now facing a death sentence, creating immediate stakes.",
+    "why_it_works": "The 'innocent wife on death row' trope combined with a high-voltage emotional reveal from a mother to a son is a proven conversion driver.",
+    "hook_shock_score": 89,
+    "cliffhanger_tension_score": 92,
+    "standalone_clarity_score": 95,
+    "trope_virality_score": 88,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "PROMO_EP39_DUKE_REBORN",
+    "promo_type": "Continuous",
+    "segments": [
+      {
+        "episode": 39,
+        "start_time": "01:06",
+        "end_time": "01:46"
+      }
+    ],
+    "opening_hook_3s": "Alexander snips his long, unkempt hair in a mirror, declaring 'Enough hiding' with a scarred, fierce face.",
+    "cliffhanger_cut": "Alexander marches through the snow in full royal ducal splendor, vowing 'I am bringing my wife home' before a sharp cut to black.",
+    "standalone_clarity_check": "The visual transformation from a rugged exile to a powerful nobleman tells the story of a hidden identity returning for vengeance.",
+    "why_it_works": "The 'Glow-up/Hidden Identity' reveal is the highest-converting visual hook in microdrama marketing.",
+    "hook_shock_score": 94,
+    "cliffhanger_tension_score": 90,
+    "standalone_clarity_score": 92,
+    "trope_virality_score": 96,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "PROMO_EP40_WEDDING_EXECUTION",
+    "promo_type": "Continuous",
+    "segments": [
+      {
+        "episode": 40,
+        "start_time": "01:13",
+        "end_time": "01:59"
+      }
+    ],
+    "opening_hook_3s": "A ruthless elder nobleman looks down at a wedding and snarls, 'And its witch will be dead.'",
+    "cliffhanger_cut": "The villains exchange a triumphant, evil smile at the altar as the bridal organ music swells to a tense peak.",
+    "standalone_clarity_check": "The contrast between a beautiful wedding and a planned execution is immediately understandable as a 'villain's peak' moment.",
+    "why_it_works": "It builds massive 'rage-bait' against the villains, making the viewer desperate to see the hero (Alexander) crash the wedding.",
+    "hook_shock_score": 85,
+    "cliffhanger_tension_score": 88,
+    "standalone_clarity_score": 90,
+    "trope_virality_score": 84,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "PROMO_EP41_42_RESURRECTION",
+    "promo_type": "Multi-Segment Stitch",
+    "segments": [
+      {
+        "episode": 41,
+        "start_time": "01:02.00",
+        "end_time": "01:42.00"
+      },
+      {
+        "episode": 42,
+        "start_time": "00:00.00",
+        "end_time": "00:14.60"
+      }
+    ],
+    "opening_hook_3s": "A woman in a dirty prison dress and heavy iron shackles stands in a cathedral, defiantly mocking a bride at the altar.",
+    "cliffhanger_cut": "The 'dead' Duke Alexander steps through the smoke of the exploded cathedral doors, revealing he is alive to the terrified villains.",
+    "standalone_clarity_check": "The visual contrast between the high-society wedding and the shackled prisoner immediately establishes the 'wronged heroine' trope, followed by the high-budget explosion and the return of the true heir.",
+    "why_it_works": "It combines the 'humiliated prisoner' trope with a high-octane action beat and a classic 'dead man returns' reveal.",
+    "hook_shock_score": 92,
+    "cliffhanger_tension_score": 95,
+    "standalone_clarity_score": 88,
+    "trope_virality_score": 94,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "PROMO_EP43_TRAITOR_REVEAL",
+    "promo_type": "Continuous",
+    "segments": [
+      {
+        "episode": 43,
+        "start_time": "00:14.20",
+        "end_time": "01:11.30"
+      }
+    ],
+    "opening_hook_3s": "A Royal Guard Captain snaps a crisp salute to a 'stranger' and refuses the current Duke's order to arrest him.",
+    "cliffhanger_cut": "Alexander towers over the villain, thundering the accusation that he sold his own soldiers to the enemy.",
+    "standalone_clarity_check": "The power shift is clear: the guards switch sides to the true leader, and the villain is exposed as a war criminal through official documents.",
+    "why_it_works": "The 'loyalty shift' beat where guards salute the true king is a top-performing viral hook in microdramas.",
+    "hook_shock_score": 89,
+    "cliffhanger_tension_score": 91,
+    "standalone_clarity_score": 90,
+    "trope_virality_score": 92,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "PROMO_EP45_THE_FALSE_DUCHESS",
+    "promo_type": "Multi-Segment Stitch",
+    "segments": [
+      {
+        "episode": 45,
+        "start_time": "00:09.00",
+        "end_time": "00:31.00"
+      },
+      {
+        "episode": 45,
+        "start_time": "01:32.00",
+        "end_time": "02:01.75"
+      }
+    ],
+    "opening_hook_3s": "A powerful Duke drops to his knees in a ruined church to personally unlock the iron shackles of a prisoner.",
+    "cliffhanger_cut": "A High Priest declares the marriage invalid, and the villainous bride smiles as the heroine realizes she has no legal protection.",
+    "standalone_clarity_check": "The clip shows a rags-to-riches coronation immediately followed by a legal reversal that puts the heroine back in danger.",
+    "why_it_works": "It delivers the emotional 'payoff' of the hero choosing the poor girl, then immediately snatches it away with a legal cliffhanger.",
+    "hook_shock_score": 94,
+    "cliffhanger_tension_score": 96,
+    "standalone_clarity_score": 85,
+    "trope_virality_score": 95,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "PROMO_EP46_BEGGAR_DUKE",
+    "promo_type": "Continuous",
+    "segments": [
+      {
+        "episode": 46,
+        "start_time": "00:24",
+        "end_time": "01:13"
+      }
+    ],
+    "opening_hook_3s": "The High Priest thunders 'You married this woman as a nameless beggar!' while brandishing a royal decree.",
+    "cliffhanger_cut": "The High Priest smirks venomously at Juliana, delivering the crushing line: 'Love doesn't make a Duchess, girl. Paper does.'",
+    "standalone_clarity_check": "The dialogue explicitly explains the conflict: a man who was a 'beggar' is now a 'Duke,' and the church is using his status change to invalidate his marriage to a commoner.",
+    "why_it_works": "It hits the 'Hidden Identity' and 'Forbidden Love' tropes perfectly with a high-stakes status reveal.",
+    "hook_shock_score": 92,
+    "cliffhanger_tension_score": 88,
+    "standalone_clarity_score": 95,
+    "trope_virality_score": 94,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "PROMO_EP47_SCULLERY_MAID",
+    "promo_type": "Continuous",
+    "segments": [
+      {
+        "episode": 47,
+        "start_time": "01:35",
+        "end_time": "02:21"
+      }
+    ],
+    "opening_hook_3s": "Juliana slams a heavy iron ring of keys and a rough servant's apron onto a bench, confronting her rival.",
+    "cliffhanger_cut": "The once-proud Catherine prostrates herself entirely on the stone floor in a gesture of total submission.",
+    "standalone_clarity_check": "The visual of a noblewoman being forced to take a servant's apron and 'scrub floors' by a woman she previously bullied is a universal revenge arc.",
+    "why_it_works": "The 'Queen to Scullery Maid' humiliation is a top-tier high-conversion trope for female-centric microdramas.",
+    "hook_shock_score": 89,
+    "cliffhanger_tension_score": 91,
+    "standalone_clarity_score": 96,
+    "trope_virality_score": 95,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "PROMO_EP50_PRIEST_AFFAIR",
+    "promo_type": "Multi-Segment Stitch",
+    "segments": [
+      {
+        "episode": 50,
+        "start_time": "00:04",
+        "end_time": "00:22"
+      },
+      {
+        "episode": 50,
+        "start_time": "01:14",
+        "end_time": "01:28"
+      }
+    ],
+    "opening_hook_3s": "A shocking overhead shot of a woman in silk lying on the bare chest of a man wearing a clerical collar.",
+    "cliffhanger_cut": "The maid Agnes gasps in terror as she witnesses the forbidden affair through a door crack, cutting to black.",
+    "standalone_clarity_check": "The visual of a priest in bed followed by a witness discovering them is immediately understandable as a scandalous, lethal secret.",
+    "why_it_works": "Forbidden religious romance combined with a 'caught in the act' witness moment is a viral goldmine.",
+    "hook_shock_score": 96,
+    "cliffhanger_tension_score": 94,
+    "standalone_clarity_score": 92,
+    "trope_virality_score": 93,
+    "extracted_by": "Google Gemini (gemini-3-flash-preview)"
+  },
+  {
+    "promo_id": "REJECTED_DURATION_DRIFT_EP26",
+    "promo_type": "Continuous",
+    "segments": [
+      {
+        "episode": 26,
+        "start_time": "02:04",
+        "end_time": "03:18"
+      }
+    ],
+    "opening_hook_3s": "[02:04] Actions and dialogue:",
+    "cliffhanger_cut": "[03:18] Unedited scene stretch runs through middle exposition before cutting: Tight close-up of the Dowager Duchess's two weathered hands tightly clasping Juliana's hand, holding",
+    "standalone_clarity_check": "Understandable conflict, but unedited scene duration exceeds the 60s short-form attention window.",
+    "why_it_works": "Candidate from Ep 26 flagged by Python duration guardrail for exceeding 60s.",
+    "hook_shock_score": 72,
+    "cliffhanger_tension_score": 68,
+    "standalone_clarity_score": 74,
+    "trope_virality_score": 70,
+    "extracted_by": "Stage-3 Boundary Audit"
+  },
+  {
+    "promo_id": "REJECTED_LORE_SPOILER_EP50",
+    "promo_type": "Continuous",
+    "segments": [
+      {
+        "episode": 50,
+        "start_time": "01:14",
+        "end_time": "01:38"
+      }
+    ],
+    "opening_hook_3s": "[01:14] Actions and dialogue:",
+    "cliffhanger_cut": "[01:38] Frantic backward tracking close-up on Agnes stumbling back into the shadows of the hallway, horrified by the lethal secr",
+    "standalone_clarity_check": "Fails cold-viewer test: Episode 50 relies on prior character lore and reveals late-arc resolution.",
+    "why_it_works": "High tension for existing viewers, but confusing for cold audiences and spoils late-funnel paywall retention.",
+    "hook_shock_score": 78,
+    "cliffhanger_tension_score": 80,
+    "standalone_clarity_score": 45,
+    "trope_virality_score": 65,
+    "extracted_by": "Stage-3 Boundary Audit"
+  }
+]

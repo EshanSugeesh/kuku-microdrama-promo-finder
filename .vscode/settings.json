@@ -1,0 +1,7 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+      "flake8.args": [
+    "--max-line-length=120",
+    "--extend-ignore=E501,E302,E305,W291,W293"
+  ]
+}

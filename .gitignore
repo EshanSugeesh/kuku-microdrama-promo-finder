@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+data/input_scripts/
+raw_outputs/01_parsed_screenplay_50eps.json

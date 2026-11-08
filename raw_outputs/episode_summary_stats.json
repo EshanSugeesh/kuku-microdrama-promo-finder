@@ -1,0 +1,1292 @@
+[
+  {
+    "episode_num": 1,
+    "total_tension_score": 52,
+    "candidate_windows": [
+      {
+        "start_time": "00:35",
+        "end_time": "01:30",
+        "duration_sec": 55,
+        "window_tension": 35,
+        "preview": "**CAMERA:** | Start: (00:25.80) | End: (00:29.80) | Medium front tracking shot moving backward ahead of Juliana as she advances down the center aisle."
+      },
+      {
+        "start_time": "00:35",
+        "end_time": "01:32",
+        "duration_sec": 57,
+        "window_tension": 35,
+        "preview": "**CAMERA:** | Start: (00:25.80) | End: (00:29.80) | Medium front tracking shot moving backward ahead of Juliana as she advances down the center aisle."
+      },
+      {
+        "start_time": "00:35",
+        "end_time": "01:34",
+        "duration_sec": 59,
+        "window_tension": 35,
+        "preview": "**CAMERA:** | Start: (00:25.80) | End: (00:29.80) | Medium front tracking shot moving backward ahead of Juliana as she advances down the center aisle."
+      }
+    ],
+    "total_duration_sec": 145
+  },
+  {
+    "episode_num": 2,
+    "total_tension_score": 38,
+    "candidate_windows": [
+      {
+        "start_time": "00:00",
+        "end_time": "01:00",
+        "duration_sec": 60,
+        "window_tension": 30,
+        "preview": "Start: (00:00.00) | End: (00:02.80) | Medium low-angle shot on Gerald at the altar steps, looking down dismissively, while Clarissa in her shimmering gold gown stands behind him gl"
+      },
+      {
+        "start_time": "00:04",
+        "end_time": "01:01",
+        "duration_sec": 57,
+        "window_tension": 30,
+        "preview": "Medium low-angle shot on Gerald at the altar steps, looking down dismissively, while Clarissa in her shimmering gold gown stands behind him gloating. | **THE FORMER GROOM (Cold, Ca"
+      },
+      {
+        "start_time": "00:04",
+        "end_time": "01:03",
+        "duration_sec": 59,
+        "window_tension": 30,
+        "preview": "Medium low-angle shot on Gerald at the altar steps, looking down dismissively, while Clarissa in her shimmering gold gown stands behind him gloating. | **THE FORMER GROOM (Cold, Ca"
+      }
+    ],
+    "total_duration_sec": 119
+  },
+  {
+    "episode_num": 3,
+    "total_tension_score": 127,
+    "candidate_windows": [
+      {
+        "start_time": "00:26",
+        "end_time": "01:11",
+        "duration_sec": 45,
+        "window_tension": 61,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:00.00) | End: (00:03.50)"
+      },
+      {
+        "start_time": "00:26",
+        "end_time": "01:13",
+        "duration_sec": 47,
+        "window_tension": 61,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:00.00) | End: (00:03.50)"
+      },
+      {
+        "start_time": "00:26",
+        "end_time": "01:16",
+        "duration_sec": 50,
+        "window_tension": 61,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:00.00) | End: (00:03.50)"
+      }
+    ],
+    "total_duration_sec": 152
+  },
+  {
+    "episode_num": 4,
+    "total_tension_score": 42,
+    "candidate_windows": [
+      {
+        "start_time": "00:00",
+        "end_time": "01:00",
+        "duration_sec": 60,
+        "window_tension": 21,
+        "preview": "Start: (00:00.00) | End: (00:01.50) | Close-up of the Mysterious Bearded Man's scarred hand holding out the silver band ring. | **CAMERA:**"
+      },
+      {
+        "start_time": "00:04",
+        "end_time": "01:03",
+        "duration_sec": 59,
+        "window_tension": 21,
+        "preview": "Close-up of the Mysterious Bearded Man's scarred hand holding out the silver band ring. | **CAMERA:** | Start: (00:01.50) | End: (00:03.20)"
+      },
+      {
+        "start_time": "00:04",
+        "end_time": "01:00",
+        "duration_sec": 56,
+        "window_tension": 21,
+        "preview": "Close-up of the Mysterious Bearded Man's scarred hand holding out the silver band ring. | **CAMERA:** | Start: (00:01.50) | End: (00:03.20)"
+      }
+    ],
+    "total_duration_sec": 158
+  },
+  {
+    "episode_num": 5,
+    "total_tension_score": 36,
+    "candidate_windows": [
+      {
+        "start_time": "00:42",
+        "end_time": "01:40",
+        "duration_sec": 58,
+        "window_tension": 30,
+        "preview": "**LORD ASHCROFT (O.S.):** | Start: (00:33.80) | End: (00:36.80) | \"And you have chosen to become a stranger.\""
+      },
+      {
+        "start_time": "00:42",
+        "end_time": "01:42",
+        "duration_sec": 60,
+        "window_tension": 30,
+        "preview": "**LORD ASHCROFT (O.S.):** | Start: (00:33.80) | End: (00:36.80) | \"And you have chosen to become a stranger.\""
+      },
+      {
+        "start_time": "00:42",
+        "end_time": "01:40",
+        "duration_sec": 58,
+        "window_tension": 30,
+        "preview": "**LORD ASHCROFT (O.S.):** | Start: (00:33.80) | End: (00:36.80) | \"And you have chosen to become a stranger.\""
+      }
+    ],
+    "total_duration_sec": 117
+  },
+  {
+    "episode_num": 6,
+    "total_tension_score": 13,
+    "candidate_windows": [],
+    "total_duration_sec": 120
+  },
+  {
+    "episode_num": 7,
+    "total_tension_score": 22,
+    "candidate_windows": [
+      {
+        "start_time": "01:13",
+        "end_time": "01:38",
+        "duration_sec": 25,
+        "window_tension": 22,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:00.00) | End: (00:04.80)"
+      },
+      {
+        "start_time": "01:13",
+        "end_time": "01:40",
+        "duration_sec": 27,
+        "window_tension": 22,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:00.00) | End: (00:04.80)"
+      },
+      {
+        "start_time": "01:13",
+        "end_time": "01:37",
+        "duration_sec": 24,
+        "window_tension": 22,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:00.00) | End: (00:04.80)"
+      }
+    ],
+    "total_duration_sec": 123
+  },
+  {
+    "episode_num": 8,
+    "total_tension_score": 4,
+    "candidate_windows": [],
+    "total_duration_sec": 87
+  },
+  {
+    "episode_num": 9,
+    "total_tension_score": 28,
+    "candidate_windows": [
+      {
+        "start_time": "01:27",
+        "end_time": "01:53",
+        "duration_sec": 26,
+        "window_tension": 28,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:00.00) | End: (00:02.80)"
+      },
+      {
+        "start_time": "01:27",
+        "end_time": "01:55",
+        "duration_sec": 28,
+        "window_tension": 28,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:00.00) | End: (00:02.80)"
+      },
+      {
+        "start_time": "01:27",
+        "end_time": "01:48",
+        "duration_sec": 21,
+        "window_tension": 28,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:00.00) | End: (00:02.80)"
+      }
+    ],
+    "total_duration_sec": 124
+  },
+  {
+    "episode_num": 10,
+    "total_tension_score": 8,
+    "candidate_windows": [],
+    "total_duration_sec": 98
+  },
+  {
+    "episode_num": 11,
+    "total_tension_score": 53,
+    "candidate_windows": [
+      {
+        "start_time": "00:58",
+        "end_time": "01:56",
+        "duration_sec": 58,
+        "window_tension": 53,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:00.00) | End: (00:02.00)"
+      },
+      {
+        "start_time": "00:58",
+        "end_time": "01:58",
+        "duration_sec": 60,
+        "window_tension": 53,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:00.00) | End: (00:02.00)"
+      },
+      {
+        "start_time": "01:00",
+        "end_time": "01:56",
+        "duration_sec": 56,
+        "window_tension": 53,
+        "preview": "**CAMERA:** | Start: (00:00.00) | End: (00:02.00) | Low-angle tracking shot of heavy carriage wheels churning violently through the muddy, waterlogged track."
+      }
+    ],
+    "total_duration_sec": 118
+  },
+  {
+    "episode_num": 12,
+    "total_tension_score": 37,
+    "candidate_windows": [
+      {
+        "start_time": "00:10",
+        "end_time": "01:07",
+        "duration_sec": 57,
+        "window_tension": 29,
+        "preview": "**CONSTABLE (Authoritative, Stern):** | Start: (00:00.50) | End: (00:04.50) | \"Put out your hands, veteran. You are under arrest for theft.\""
+      },
+      {
+        "start_time": "00:10",
+        "end_time": "01:09",
+        "duration_sec": 59,
+        "window_tension": 29,
+        "preview": "**CONSTABLE (Authoritative, Stern):** | Start: (00:00.50) | End: (00:04.50) | \"Put out your hands, veteran. You are under arrest for theft.\""
+      },
+      {
+        "start_time": "00:10",
+        "end_time": "01:07",
+        "duration_sec": 57,
+        "window_tension": 29,
+        "preview": "**CONSTABLE (Authoritative, Stern):** | Start: (00:00.50) | End: (00:04.50) | \"Put out your hands, veteran. You are under arrest for theft.\""
+      }
+    ],
+    "total_duration_sec": 95
+  },
+  {
+    "episode_num": 13,
+    "total_tension_score": 50,
+    "candidate_windows": [
+      {
+        "start_time": "01:07",
+        "end_time": "02:07",
+        "duration_sec": 60,
+        "window_tension": 37,
+        "preview": "**CLARISSA (Mocking, Spiteful):** | Start: (00:58.80) | End: (01:01.80) | \"The lady has finally found something worthy of her.\""
+      },
+      {
+        "start_time": "01:09",
+        "end_time": "02:07",
+        "duration_sec": 58,
+        "window_tension": 37,
+        "preview": "**CAMERA:** | Start: (01:02.00) | End: (01:07.50) | Low-angle medium close-up of Gerald shouting down into the garden."
+      },
+      {
+        "start_time": "01:09",
+        "end_time": "02:09",
+        "duration_sec": 60,
+        "window_tension": 37,
+        "preview": "**CAMERA:** | Start: (01:02.00) | End: (01:07.50) | Low-angle medium close-up of Gerald shouting down into the garden."
+      }
+    ],
+    "total_duration_sec": 129
+  },
+  {
+    "episode_num": 14,
+    "total_tension_score": 29,
+    "candidate_windows": [
+      {
+        "start_time": "00:44",
+        "end_time": "01:08",
+        "duration_sec": 24,
+        "window_tension": 29,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:00.00) | End: (00:05.60)"
+      },
+      {
+        "start_time": "00:44",
+        "end_time": "01:10",
+        "duration_sec": 26,
+        "window_tension": 29,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:00.00) | End: (00:05.60)"
+      },
+      {
+        "start_time": "00:44",
+        "end_time": "01:04",
+        "duration_sec": 20,
+        "window_tension": 29,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:00.00) | End: (00:05.60)"
+      }
+    ],
+    "total_duration_sec": 95
+  },
+  {
+    "episode_num": 15,
+    "total_tension_score": 44,
+    "candidate_windows": [
+      {
+        "start_time": "00:04",
+        "end_time": "01:03",
+        "duration_sec": 59,
+        "window_tension": 42,
+        "preview": "High-angle wide shot of the raised planter beds illuminated by the pale moonlight as three shadowy figures march purposefully down the central stone path. | **ACTION:** | Start: (0"
+      },
+      {
+        "start_time": "00:04",
+        "end_time": "01:04",
+        "duration_sec": 60,
+        "window_tension": 42,
+        "preview": "High-angle wide shot of the raised planter beds illuminated by the pale moonlight as three shadowy figures march purposefully down the central stone path. | **ACTION:** | Start: (0"
+      },
+      {
+        "start_time": "00:10",
+        "end_time": "01:03",
+        "duration_sec": 53,
+        "window_tension": 42,
+        "preview": "**ACTION:** | Start: (00:00.00) | End: (00:03.50) | Three menacing thugs, armed with clubs and tools, stalk through the quiet herbal garden surrounded by stone walls."
+      }
+    ],
+    "total_duration_sec": 94
+  },
+  {
+    "episode_num": 16,
+    "total_tension_score": 23,
+    "candidate_windows": [
+      {
+        "start_time": "00:04",
+        "end_time": "01:03",
+        "duration_sec": 59,
+        "window_tension": 22,
+        "preview": "Wide shot from behind Alexander's trench coat looking toward the three thugs standing across the trampled garden under the full moon. | **ACTION:** | Start: (00:00.00) | End: (00:0"
+      },
+      {
+        "start_time": "00:04",
+        "end_time": "01:03",
+        "duration_sec": 59,
+        "window_tension": 22,
+        "preview": "Wide shot from behind Alexander's trench coat looking toward the three thugs standing across the trampled garden under the full moon. | **ACTION:** | Start: (00:00.00) | End: (00:0"
+      },
+      {
+        "start_time": "00:10",
+        "end_time": "01:03",
+        "duration_sec": 53,
+        "window_tension": 22,
+        "preview": "**ACTION:** | Start: (00:00.00) | End: (00:02.10) | Alexander stands tall and unyielding, blocking the path to Juliana, while the Thug with Cap steps forward clutching an iron pipe"
+      }
+    ],
+    "total_duration_sec": 90
+  },
+  {
+    "episode_num": 17,
+    "total_tension_score": 29,
+    "candidate_windows": [
+      {
+        "start_time": "00:00",
+        "end_time": "00:38",
+        "duration_sec": 38,
+        "window_tension": 24,
+        "preview": "Start: (00:00.00) | End: (00:03.00) | High angle wide shot looking down at the muddy, trampled garden. Broken wooden planters and splintered planks litter the ground as Juliana kne"
+      },
+      {
+        "start_time": "00:00",
+        "end_time": "00:40",
+        "duration_sec": 40,
+        "window_tension": 24,
+        "preview": "Start: (00:00.00) | End: (00:03.00) | High angle wide shot looking down at the muddy, trampled garden. Broken wooden planters and splintered planks litter the ground as Juliana kne"
+      },
+      {
+        "start_time": "00:00",
+        "end_time": "00:36",
+        "duration_sec": 36,
+        "window_tension": 24,
+        "preview": "Start: (00:00.00) | End: (00:03.00) | High angle wide shot looking down at the muddy, trampled garden. Broken wooden planters and splintered planks litter the ground as Juliana kne"
+      }
+    ],
+    "total_duration_sec": 125
+  },
+  {
+    "episode_num": 18,
+    "total_tension_score": 55,
+    "candidate_windows": [
+      {
+        "start_time": "01:42",
+        "end_time": "02:04",
+        "duration_sec": 22,
+        "window_tension": 30,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:52.50) | End: (00:56.20)"
+      },
+      {
+        "start_time": "01:42",
+        "end_time": "02:06",
+        "duration_sec": 24,
+        "window_tension": 30,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:52.50) | End: (00:56.20)"
+      },
+      {
+        "start_time": "01:42",
+        "end_time": "02:03",
+        "duration_sec": 21,
+        "window_tension": 30,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:52.50) | End: (00:56.20)"
+      }
+    ],
+    "total_duration_sec": 198
+  },
+  {
+    "episode_num": 19,
+    "total_tension_score": 20,
+    "candidate_windows": [
+      {
+        "start_time": "01:33",
+        "end_time": "01:56",
+        "duration_sec": 23,
+        "window_tension": 16,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:41.50) | End: (00:44.20)"
+      },
+      {
+        "start_time": "01:33",
+        "end_time": "01:58",
+        "duration_sec": 25,
+        "window_tension": 16,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:41.50) | End: (00:44.20)"
+      },
+      {
+        "start_time": "01:33",
+        "end_time": "01:53",
+        "duration_sec": 20,
+        "window_tension": 16,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:41.50) | End: (00:44.20)"
+      }
+    ],
+    "total_duration_sec": 124
+  },
+  {
+    "episode_num": 20,
+    "total_tension_score": 19,
+    "candidate_windows": [
+      {
+        "start_time": "01:00",
+        "end_time": "01:21",
+        "duration_sec": 21,
+        "window_tension": 19,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:02.80) | End: (00:06.80)"
+      },
+      {
+        "start_time": "01:00",
+        "end_time": "01:23",
+        "duration_sec": 23,
+        "window_tension": 19,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:02.80) | End: (00:06.80)"
+      },
+      {
+        "start_time": "01:00",
+        "end_time": "01:20",
+        "duration_sec": 20,
+        "window_tension": 19,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:02.80) | End: (00:06.80)"
+      }
+    ],
+    "total_duration_sec": 121
+  },
+  {
+    "episode_num": 21,
+    "total_tension_score": 55,
+    "candidate_windows": [
+      {
+        "start_time": "00:00",
+        "end_time": "00:45",
+        "duration_sec": 45,
+        "window_tension": 31,
+        "preview": "Start: (00:00.00) | End: (00:03.50) | Medium shot of Lady Juliana in a rustic grey gown, her wrists wrapped in white bandages, smoothing a blanket over a straw pallet in the dimly "
+      },
+      {
+        "start_time": "00:00",
+        "end_time": "00:47",
+        "duration_sec": 47,
+        "window_tension": 31,
+        "preview": "Start: (00:00.00) | End: (00:03.50) | Medium shot of Lady Juliana in a rustic grey gown, her wrists wrapped in white bandages, smoothing a blanket over a straw pallet in the dimly "
+      },
+      {
+        "start_time": "00:00",
+        "end_time": "00:50",
+        "duration_sec": 50,
+        "window_tension": 31,
+        "preview": "Start: (00:00.00) | End: (00:03.50) | Medium shot of Lady Juliana in a rustic grey gown, her wrists wrapped in white bandages, smoothing a blanket over a straw pallet in the dimly "
+      }
+    ],
+    "total_duration_sec": 120
+  },
+  {
+    "episode_num": 22,
+    "total_tension_score": 22,
+    "candidate_windows": [
+      {
+        "start_time": "01:32",
+        "end_time": "02:18",
+        "duration_sec": 46,
+        "window_tension": 21,
+        "preview": "Actions and dialogue: | **HOUSEKEEPER (Sharp, Stern, O.S.):** | Start: (00:43.00) | End: (00:44.20)"
+      },
+      {
+        "start_time": "01:32",
+        "end_time": "02:20",
+        "duration_sec": 48,
+        "window_tension": 21,
+        "preview": "Actions and dialogue: | **HOUSEKEEPER (Sharp, Stern, O.S.):** | Start: (00:43.00) | End: (00:44.20)"
+      },
+      {
+        "start_time": "01:34",
+        "end_time": "02:18",
+        "duration_sec": 44,
+        "window_tension": 21,
+        "preview": "**HOUSEKEEPER (Sharp, Stern, O.S.):** | Start: (00:43.00) | End: (00:44.20) | \"Prudence.\""
+      }
+    ],
+    "total_duration_sec": 140
+  },
+  {
+    "episode_num": 23,
+    "total_tension_score": 23,
+    "candidate_windows": [
+      {
+        "start_time": "01:03",
+        "end_time": "02:02",
+        "duration_sec": 59,
+        "window_tension": 18,
+        "preview": "**ACTION:** | Start: (00:57.50) | End: (00:58.50) | Juliana draws in a sharp, startled breath, her eyes widening in horror."
+      },
+      {
+        "start_time": "01:03",
+        "end_time": "01:59",
+        "duration_sec": 56,
+        "window_tension": 18,
+        "preview": "**ACTION:** | Start: (00:57.50) | End: (00:58.50) | Juliana draws in a sharp, startled breath, her eyes widening in horror."
+      },
+      {
+        "start_time": "01:03",
+        "end_time": "02:00",
+        "duration_sec": 57,
+        "window_tension": 18,
+        "preview": "**ACTION:** | Start: (00:57.50) | End: (00:58.50) | Juliana draws in a sharp, startled breath, her eyes widening in horror."
+      }
+    ],
+    "total_duration_sec": 141
+  },
+  {
+    "episode_num": 24,
+    "total_tension_score": 14,
+    "candidate_windows": [
+      {
+        "start_time": "00:52",
+        "end_time": "01:14",
+        "duration_sec": 22,
+        "window_tension": 14,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:00.00) | End: (00:03.50)"
+      },
+      {
+        "start_time": "00:52",
+        "end_time": "01:16",
+        "duration_sec": 24,
+        "window_tension": 14,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:00.00) | End: (00:03.50)"
+      },
+      {
+        "start_time": "00:52",
+        "end_time": "01:14",
+        "duration_sec": 22,
+        "window_tension": 14,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:00.00) | End: (00:03.50)"
+      }
+    ],
+    "total_duration_sec": 94
+  },
+  {
+    "episode_num": 25,
+    "total_tension_score": 16,
+    "candidate_windows": [
+      {
+        "start_time": "00:10",
+        "end_time": "01:06",
+        "duration_sec": 56,
+        "window_tension": 10,
+        "preview": "**ACTION:** | Start: (00:00.60) | End: (00:04.20) | Juliana walks hurriedly along the leaf-strewn forest path, clutching her dark hooded cloak tightly around her shoulders, breathi"
+      },
+      {
+        "start_time": "00:10",
+        "end_time": "01:08",
+        "duration_sec": 58,
+        "window_tension": 10,
+        "preview": "**ACTION:** | Start: (00:00.60) | End: (00:04.20) | Juliana walks hurriedly along the leaf-strewn forest path, clutching her dark hooded cloak tightly around her shoulders, breathi"
+      },
+      {
+        "start_time": "00:10",
+        "end_time": "01:07",
+        "duration_sec": 57,
+        "window_tension": 10,
+        "preview": "**ACTION:** | Start: (00:00.60) | End: (00:04.20) | Juliana walks hurriedly along the leaf-strewn forest path, clutching her dark hooded cloak tightly around her shoulders, breathi"
+      }
+    ],
+    "total_duration_sec": 175
+  },
+  {
+    "episode_num": 26,
+    "total_tension_score": 42,
+    "candidate_windows": [
+      {
+        "start_time": "01:11",
+        "end_time": "02:09",
+        "duration_sec": 58,
+        "window_tension": 28,
+        "preview": "**JULIANA (Reassuring, Steadfast):** | Start: (01:02.60) | End: (01:06.70) | \"Yes. But the charcoal is fighting the poison. You are safe now.\""
+      },
+      {
+        "start_time": "01:11",
+        "end_time": "02:11",
+        "duration_sec": 60,
+        "window_tension": 28,
+        "preview": "**JULIANA (Reassuring, Steadfast):** | Start: (01:02.60) | End: (01:06.70) | \"Yes. But the charcoal is fighting the poison. You are safe now.\""
+      },
+      {
+        "start_time": "01:10",
+        "end_time": "02:09",
+        "duration_sec": 59,
+        "window_tension": 28,
+        "preview": "**CAMERA:** | Start: (01:07.00) | End: (01:11.80) | Close-up of the small amber dropper bottle sitting atop the polished wooden bedside table in the dim glow of the lamp."
+      }
+    ],
+    "total_duration_sec": 131
+  },
+  {
+    "episode_num": 27,
+    "total_tension_score": 55,
+    "candidate_windows": [
+      {
+        "start_time": "00:10",
+        "end_time": "01:06",
+        "duration_sec": 56,
+        "window_tension": 32,
+        "preview": "**DOWAGER DUCHESS (Shaken, Breathless):** | Start: (00:01.30) | End: (00:03.20) | \"This ring...\""
+      },
+      {
+        "start_time": "00:10",
+        "end_time": "01:08",
+        "duration_sec": 58,
+        "window_tension": 32,
+        "preview": "**DOWAGER DUCHESS (Shaken, Breathless):** | Start: (00:01.30) | End: (00:03.20) | \"This ring...\""
+      },
+      {
+        "start_time": "00:10",
+        "end_time": "01:06",
+        "duration_sec": 56,
+        "window_tension": 32,
+        "preview": "**DOWAGER DUCHESS (Shaken, Breathless):** | Start: (00:01.30) | End: (00:03.20) | \"This ring...\""
+      }
+    ],
+    "total_duration_sec": 161
+  },
+  {
+    "episode_num": 28,
+    "total_tension_score": 76,
+    "candidate_windows": [
+      {
+        "start_time": "00:04",
+        "end_time": "01:03",
+        "duration_sec": 59,
+        "window_tension": 49,
+        "preview": "Medium shot as the guard drags Juliana toward the doorway, wrestling her backward. | **ACTION:** | Start: (00:00.00) | End: (00:02.10)"
+      },
+      {
+        "start_time": "00:04",
+        "end_time": "01:02",
+        "duration_sec": 58,
+        "window_tension": 49,
+        "preview": "Medium shot as the guard drags Juliana toward the doorway, wrestling her backward. | **ACTION:** | Start: (00:00.00) | End: (00:02.10)"
+      },
+      {
+        "start_time": "00:04",
+        "end_time": "01:04",
+        "duration_sec": 60,
+        "window_tension": 49,
+        "preview": "Medium shot as the guard drags Juliana toward the doorway, wrestling her backward. | **ACTION:** | Start: (00:00.00) | End: (00:02.10)"
+      }
+    ],
+    "total_duration_sec": 148
+  },
+  {
+    "episode_num": 29,
+    "total_tension_score": 89,
+    "candidate_windows": [
+      {
+        "start_time": "01:27",
+        "end_time": "02:00",
+        "duration_sec": 33,
+        "window_tension": 65,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:20.10) | End: (00:26.80)"
+      },
+      {
+        "start_time": "01:27",
+        "end_time": "02:02",
+        "duration_sec": 35,
+        "window_tension": 65,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:20.10) | End: (00:26.80)"
+      },
+      {
+        "start_time": "01:27",
+        "end_time": "01:59",
+        "duration_sec": 32,
+        "window_tension": 65,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:20.10) | End: (00:26.80)"
+      }
+    ],
+    "total_duration_sec": 127
+  },
+  {
+    "episode_num": 30,
+    "total_tension_score": 31,
+    "candidate_windows": [
+      {
+        "start_time": "01:39",
+        "end_time": "02:38",
+        "duration_sec": 59,
+        "window_tension": 14,
+        "preview": "**ELDER NOBLEMAN (Unflinching):** | Start: (01:32.00) | End: (01:33.40) | \"Precisely.\""
+      },
+      {
+        "start_time": "01:38",
+        "end_time": "02:38",
+        "duration_sec": 60,
+        "window_tension": 14,
+        "preview": "**CAMERA:** | Start: (01:34.50) | End: (01:41.90) | Medium three-shot framing Rupert, the Elder Nobleman between them, and Catherine listening closely."
+      },
+      {
+        "start_time": "01:38",
+        "end_time": "02:38",
+        "duration_sec": 60,
+        "window_tension": 14,
+        "preview": "Medium three-shot framing Rupert, the Elder Nobleman between them, and Catherine listening closely. | **ELDER NOBLEMAN (Authoritative, Command):** | Start: (01:34.60) | End: (01:41"
+      }
+    ],
+    "total_duration_sec": 160
+  },
+  {
+    "episode_num": 31,
+    "total_tension_score": 48,
+    "candidate_windows": [
+      {
+        "start_time": "01:28",
+        "end_time": "02:24",
+        "duration_sec": 56,
+        "window_tension": 31,
+        "preview": "**JULIANA (Pure, Sincere):** | Start: (01:20.80) | End: (01:23.20) | \"I call it love.\""
+      },
+      {
+        "start_time": "01:28",
+        "end_time": "02:26",
+        "duration_sec": 58,
+        "window_tension": 31,
+        "preview": "**JULIANA (Pure, Sincere):** | Start: (01:20.80) | End: (01:23.20) | \"I call it love.\""
+      },
+      {
+        "start_time": "01:28",
+        "end_time": "02:24",
+        "duration_sec": 56,
+        "window_tension": 31,
+        "preview": "**JULIANA (Pure, Sincere):** | Start: (01:20.80) | End: (01:23.20) | \"I call it love.\""
+      }
+    ],
+    "total_duration_sec": 167
+  },
+  {
+    "episode_num": 32,
+    "total_tension_score": 52,
+    "candidate_windows": [
+      {
+        "start_time": "00:10",
+        "end_time": "01:07",
+        "duration_sec": 57,
+        "window_tension": 27,
+        "preview": "**SOUND FX:** | Start: (00:00.00) | End: (00:02.80) | Sizzling, crackling sound of scorched parchment paper."
+      },
+      {
+        "start_time": "00:10",
+        "end_time": "01:09",
+        "duration_sec": 59,
+        "window_tension": 27,
+        "preview": "**SOUND FX:** | Start: (00:00.00) | End: (00:02.80) | Sizzling, crackling sound of scorched parchment paper."
+      },
+      {
+        "start_time": "00:10",
+        "end_time": "01:05",
+        "duration_sec": 55,
+        "window_tension": 27,
+        "preview": "**SOUND FX:** | Start: (00:00.00) | End: (00:02.80) | Sizzling, crackling sound of scorched parchment paper."
+      }
+    ],
+    "total_duration_sec": 164
+  },
+  {
+    "episode_num": 33,
+    "total_tension_score": 66,
+    "candidate_windows": [
+      {
+        "start_time": "01:13",
+        "end_time": "02:13",
+        "duration_sec": 60,
+        "window_tension": 34,
+        "preview": "**LORD (Threatening):** | Start: (01:04.40) | End: (01:08.50) | \"One word from me, and the county gaol will take him before sunrise.\""
+      },
+      {
+        "start_time": "00:29",
+        "end_time": "01:29",
+        "duration_sec": 60,
+        "window_tension": 30,
+        "preview": "**LORD (Sharp, Intimidating):** | Start: (00:21.20) | End: (00:22.80) | \"What herbs?\""
+      },
+      {
+        "start_time": "00:45",
+        "end_time": "01:45",
+        "duration_sec": 60,
+        "window_tension": 30,
+        "preview": "**LORD (Accusatory):** | Start: (00:37.50) | End: (00:40.00) | \"Did she use her mother's book?\""
+      }
+    ],
+    "total_duration_sec": 175
+  },
+  {
+    "episode_num": 34,
+    "total_tension_score": 55,
+    "candidate_windows": [
+      {
+        "start_time": "00:51",
+        "end_time": "01:51",
+        "duration_sec": 60,
+        "window_tension": 28,
+        "preview": "**CAMERA:** | Start: (00:42.50) | End: (00:44.80) | Medium close-up of Prudence looking up with tears streaming down her pale face."
+      },
+      {
+        "start_time": "00:51",
+        "end_time": "01:51",
+        "duration_sec": 60,
+        "window_tension": 28,
+        "preview": "**CAMERA:** | Start: (00:42.50) | End: (00:44.80) | Medium close-up of Prudence looking up with tears streaming down her pale face."
+      },
+      {
+        "start_time": "01:06",
+        "end_time": "02:06",
+        "duration_sec": 60,
+        "window_tension": 28,
+        "preview": "**JUDGE (Measured, Stern):** | Start: (00:58.20) | End: (01:00.10) | \"What did you see?\""
+      }
+    ],
+    "total_duration_sec": 197
+  },
+  {
+    "episode_num": 35,
+    "total_tension_score": 32,
+    "candidate_windows": [
+      {
+        "start_time": "00:37",
+        "end_time": "01:35",
+        "duration_sec": 58,
+        "window_tension": 17,
+        "preview": "**ACTION:** | Start: (00:28.50) | End: (00:30.80) | Alexander, wearing a rugged trench coat, his scarred face framed by long dark hair, stands studying an unfolded tactical map bef"
+      },
+      {
+        "start_time": "00:37",
+        "end_time": "01:37",
+        "duration_sec": 60,
+        "window_tension": 17,
+        "preview": "**ACTION:** | Start: (00:28.50) | End: (00:30.80) | Alexander, wearing a rugged trench coat, his scarred face framed by long dark hair, stands studying an unfolded tactical map bef"
+      },
+      {
+        "start_time": "00:37",
+        "end_time": "01:36",
+        "duration_sec": 59,
+        "window_tension": 17,
+        "preview": "**ACTION:** | Start: (00:28.50) | End: (00:30.80) | Alexander, wearing a rugged trench coat, his scarred face framed by long dark hair, stands studying an unfolded tactical map bef"
+      }
+    ],
+    "total_duration_sec": 159
+  },
+  {
+    "episode_num": 36,
+    "total_tension_score": 65,
+    "candidate_windows": [
+      {
+        "start_time": "01:32",
+        "end_time": "02:32",
+        "duration_sec": 60,
+        "window_tension": 31,
+        "preview": "**ALEXANDER (Alarmed):** | Start: (01:24.40) | End: (01:25.50)"
+      },
+      {
+        "start_time": "01:32",
+        "end_time": "02:32",
+        "duration_sec": 60,
+        "window_tension": 31,
+        "preview": "**ALEXANDER (Alarmed):** | Start: (01:24.40) | End: (01:25.50)"
+      },
+      {
+        "start_time": "01:50",
+        "end_time": "02:50",
+        "duration_sec": 60,
+        "window_tension": 29,
+        "preview": "**ALEXANDER (Stunned):** | Start: (01:44.00) | End: (01:45.50) | \"Arrested?\""
+      }
+    ],
+    "total_duration_sec": 208
+  },
+  {
+    "episode_num": 37,
+    "total_tension_score": 64,
+    "candidate_windows": [
+      {
+        "start_time": "01:32",
+        "end_time": "01:59",
+        "duration_sec": 27,
+        "window_tension": 43,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:34.50) | End: (00:37.00)"
+      },
+      {
+        "start_time": "01:32",
+        "end_time": "02:01",
+        "duration_sec": 29,
+        "window_tension": 43,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:34.50) | End: (00:37.00)"
+      },
+      {
+        "start_time": "01:32",
+        "end_time": "02:04",
+        "duration_sec": 32,
+        "window_tension": 43,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:34.50) | End: (00:37.00)"
+      }
+    ],
+    "total_duration_sec": 160
+  },
+  {
+    "episode_num": 38,
+    "total_tension_score": 39,
+    "candidate_windows": [
+      {
+        "start_time": "00:20",
+        "end_time": "01:18",
+        "duration_sec": 58,
+        "window_tension": 39,
+        "preview": "**ACTION:** | Start: (00:11.00) | End: (00:15.50) | The Guard kneels down and slips a small loaf of rustic bread through the bottom gap between the iron bars, nudging it inside bef"
+      },
+      {
+        "start_time": "00:20",
+        "end_time": "01:20",
+        "duration_sec": 60,
+        "window_tension": 39,
+        "preview": "**ACTION:** | Start: (00:11.00) | End: (00:15.50) | The Guard kneels down and slips a small loaf of rustic bread through the bottom gap between the iron bars, nudging it inside bef"
+      },
+      {
+        "start_time": "00:20",
+        "end_time": "01:18",
+        "duration_sec": 58,
+        "window_tension": 39,
+        "preview": "**ACTION:** | Start: (00:11.00) | End: (00:15.50) | The Guard kneels down and slips a small loaf of rustic bread through the bottom gap between the iron bars, nudging it inside bef"
+      }
+    ],
+    "total_duration_sec": 96
+  },
+  {
+    "episode_num": 39,
+    "total_tension_score": 37,
+    "candidate_windows": [
+      {
+        "start_time": "00:17",
+        "end_time": "01:15",
+        "duration_sec": 58,
+        "window_tension": 37,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:00.00) | End: (00:04.60)"
+      },
+      {
+        "start_time": "00:17",
+        "end_time": "01:17",
+        "duration_sec": 60,
+        "window_tension": 37,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:00.00) | End: (00:04.60)"
+      },
+      {
+        "start_time": "00:17",
+        "end_time": "01:12",
+        "duration_sec": 55,
+        "window_tension": 37,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:00.00) | End: (00:04.60)"
+      }
+    ],
+    "total_duration_sec": 107
+  },
+  {
+    "episode_num": 40,
+    "total_tension_score": 24,
+    "candidate_windows": [
+      {
+        "start_time": "00:38",
+        "end_time": "01:16",
+        "duration_sec": 38,
+        "window_tension": 24,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:00.00) | End: (00:04.80)"
+      },
+      {
+        "start_time": "00:38",
+        "end_time": "01:18",
+        "duration_sec": 40,
+        "window_tension": 24,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:00.00) | End: (00:04.80)"
+      },
+      {
+        "start_time": "00:38",
+        "end_time": "01:18",
+        "duration_sec": 40,
+        "window_tension": 24,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:00.00) | End: (00:04.80)"
+      }
+    ],
+    "total_duration_sec": 121
+  },
+  {
+    "episode_num": 41,
+    "total_tension_score": 21,
+    "candidate_windows": [
+      {
+        "start_time": "00:32",
+        "end_time": "01:32",
+        "duration_sec": 60,
+        "window_tension": 18,
+        "preview": "**CAMERA:** | Start: (00:26.00) | End: (00:28.80) | Medium shot of Catherine standing beside the altar, watching Juliana's entrance with gloating satisfaction."
+      },
+      {
+        "start_time": "00:35",
+        "end_time": "01:34",
+        "duration_sec": 59,
+        "window_tension": 18,
+        "preview": "**CATHERINE (Smug, Taunting):** | Start: (00:26.80) | End: (00:28.40) | \"There she is.\""
+      },
+      {
+        "start_time": "00:35",
+        "end_time": "01:32",
+        "duration_sec": 57,
+        "window_tension": 18,
+        "preview": "**CATHERINE (Smug, Taunting):** | Start: (00:26.80) | End: (00:28.40) | \"There she is.\""
+      }
+    ],
+    "total_duration_sec": 104
+  },
+  {
+    "episode_num": 42,
+    "total_tension_score": 60,
+    "candidate_windows": [
+      {
+        "start_time": "00:15",
+        "end_time": "01:13",
+        "duration_sec": 58,
+        "window_tension": 60,
+        "preview": "\"Who are you?\" | **ALEXANDER (Low, Resonant):** | Start: (00:12.80) | End: (00:14.60)"
+      },
+      {
+        "start_time": "00:15",
+        "end_time": "01:15",
+        "duration_sec": 60,
+        "window_tension": 60,
+        "preview": "\"Who are you?\" | **ALEXANDER (Low, Resonant):** | Start: (00:12.80) | End: (00:14.60)"
+      },
+      {
+        "start_time": "00:17",
+        "end_time": "01:13",
+        "duration_sec": 56,
+        "window_tension": 59,
+        "preview": "**ALEXANDER (Low, Resonant):** | Start: (00:12.80) | End: (00:14.60) | \"You already know.\""
+      }
+    ],
+    "total_duration_sec": 82
+  },
+  {
+    "episode_num": 43,
+    "total_tension_score": 83,
+    "candidate_windows": [
+      {
+        "start_time": "00:00",
+        "end_time": "00:58",
+        "duration_sec": 58,
+        "window_tension": 72,
+        "preview": "Start: (00:00.00) | End: (00:03.80) | Medium close-up on Rupert Ashburn standing before the altar, trembling with mounting panic and rage. | **BLOND NOBLEMAN (Hysterical, Panicked)"
+      },
+      {
+        "start_time": "00:00",
+        "end_time": "01:00",
+        "duration_sec": 60,
+        "window_tension": 72,
+        "preview": "Start: (00:00.00) | End: (00:03.80) | Medium close-up on Rupert Ashburn standing before the altar, trembling with mounting panic and rage. | **BLOND NOBLEMAN (Hysterical, Panicked)"
+      },
+      {
+        "start_time": "00:00",
+        "end_time": "00:55",
+        "duration_sec": 55,
+        "window_tension": 72,
+        "preview": "Start: (00:00.00) | End: (00:03.80) | Medium close-up on Rupert Ashburn standing before the altar, trembling with mounting panic and rage. | **BLOND NOBLEMAN (Hysterical, Panicked)"
+      }
+    ],
+    "total_duration_sec": 124
+  },
+  {
+    "episode_num": 44,
+    "total_tension_score": 48,
+    "candidate_windows": [
+      {
+        "start_time": "00:17",
+        "end_time": "01:08",
+        "duration_sec": 51,
+        "window_tension": 48,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:00.00) | End: (00:03.20)"
+      },
+      {
+        "start_time": "00:17",
+        "end_time": "01:10",
+        "duration_sec": 53,
+        "window_tension": 48,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:00.00) | End: (00:03.20)"
+      },
+      {
+        "start_time": "00:17",
+        "end_time": "01:07",
+        "duration_sec": 50,
+        "window_tension": 48,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:00.00) | End: (00:03.20)"
+      }
+    ],
+    "total_duration_sec": 78
+  },
+  {
+    "episode_num": 45,
+    "total_tension_score": 50,
+    "candidate_windows": [
+      {
+        "start_time": "00:52",
+        "end_time": "01:27",
+        "duration_sec": 35,
+        "window_tension": 35,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:00.00) | End: (00:03.00)"
+      },
+      {
+        "start_time": "00:52",
+        "end_time": "01:29",
+        "duration_sec": 37,
+        "window_tension": 35,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:00.00) | End: (00:03.00)"
+      },
+      {
+        "start_time": "00:52",
+        "end_time": "01:27",
+        "duration_sec": 35,
+        "window_tension": 35,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:00.00) | End: (00:03.00)"
+      }
+    ],
+    "total_duration_sec": 130
+  },
+  {
+    "episode_num": 46,
+    "total_tension_score": 94,
+    "candidate_windows": [
+      {
+        "start_time": "01:26",
+        "end_time": "02:24",
+        "duration_sec": 58,
+        "window_tension": 52,
+        "preview": "**JULIANA (Furious, Resolute):** | Start: (01:18.10) | End: (01:21.00) | \"Now a church calls my marriage a lie!\""
+      },
+      {
+        "start_time": "01:25",
+        "end_time": "02:24",
+        "duration_sec": 59,
+        "window_tension": 50,
+        "preview": "**JULIANA (Shouting, Triumphant):** | Start: (01:21.10) | End: (01:25.50) | \"God married us, Father! You are just angry no one asked you first!\""
+      },
+      {
+        "start_time": "01:25",
+        "end_time": "02:24",
+        "duration_sec": 59,
+        "window_tension": 50,
+        "preview": "\"God married us, Father! You are just angry no one asked you first!\" | **CAMERA:** | Start: (01:25.80) | End: (01:29.20)"
+      }
+    ],
+    "total_duration_sec": 149
+  },
+  {
+    "episode_num": 47,
+    "total_tension_score": 64,
+    "candidate_windows": [
+      {
+        "start_time": "01:27",
+        "end_time": "02:19",
+        "duration_sec": 52,
+        "window_tension": 54,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:55.50) | End: (00:56.80)"
+      },
+      {
+        "start_time": "01:27",
+        "end_time": "02:12",
+        "duration_sec": 45,
+        "window_tension": 54,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:55.50) | End: (00:56.80)"
+      },
+      {
+        "start_time": "01:27",
+        "end_time": "02:14",
+        "duration_sec": 47,
+        "window_tension": 54,
+        "preview": "Actions and dialogue: | **CAMERA:** | Start: (00:55.50) | End: (00:56.80)"
+      }
+    ],
+    "total_duration_sec": 143
+  },
+  {
+    "episode_num": 48,
+    "total_tension_score": 4,
+    "candidate_windows": [],
+    "total_duration_sec": 88
+  },
+  {
+    "episode_num": 49,
+    "total_tension_score": 13,
+    "candidate_windows": [
+      {
+        "start_time": "01:10",
+        "end_time": "02:08",
+        "duration_sec": 58,
+        "window_tension": 13,
+        "preview": "**FATHER THOMAS (Intimate, Candid):** | Start: (01:03.00) | End: (01:07.10) | \"And you always did have a taste for using me. It's why we suit each other.\""
+      },
+      {
+        "start_time": "01:10",
+        "end_time": "02:10",
+        "duration_sec": 60,
+        "window_tension": 13,
+        "preview": "**FATHER THOMAS (Intimate, Candid):** | Start: (01:03.00) | End: (01:07.10) | \"And you always did have a taste for using me. It's why we suit each other.\""
+      },
+      {
+        "start_time": "01:10",
+        "end_time": "02:08",
+        "duration_sec": 58,
+        "window_tension": 13,
+        "preview": "**FATHER THOMAS (Intimate, Candid):** | Start: (01:03.00) | End: (01:07.10) | \"And you always did have a taste for using me. It's why we suit each other.\""
+      }
+    ],
+    "total_duration_sec": 156
+  },
+  {
+    "episode_num": 50,
+    "total_tension_score": 8,
+    "candidate_windows": [],
+    "total_duration_sec": 90
+  }
+]
