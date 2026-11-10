@@ -1,95 +1,29 @@
 [
   {
-    "promo_id": "PROMO_EP41_42_RESURRECTION",
-    "promo_type": "Multi-Segment Stitch",
-    "segments": [
-      {
-        "episode": 41,
-        "start_time": "62:00",
-        "end_time": "102:00",
-        "segment_duration_sec": 2400
-      },
-      {
-        "episode": 42,
-        "start_time": "00:00",
-        "end_time": "15:00",
-        "segment_duration_sec": 900
-      }
-    ],
-    "total_duration_sec": 3300,
-    "opening_hook_3s": "A woman in a dirty prison dress and heavy iron shackles stands in a cathedral, defiantly mocking a bride at the altar.",
-    "cliffhanger_cut": "The 'dead' Duke Alexander steps through the smoke of the exploded cathedral doors, revealing he is alive to the terrified villains.",
-    "standalone_clarity_check": "The visual contrast between the high-society wedding and the shackled prisoner immediately establishes the 'wronged heroine' trope, followed by the high-budget explosion and the return of the true heir.",
-    "why_it_works": "It combines the 'humiliated prisoner' trope with a high-octane action beat and a classic 'dead man returns' reveal.",
-    "hook_shock_score": 92.0,
-    "cliffhanger_tension_score": 95.0,
-    "standalone_clarity_score": 88.0,
-    "trope_virality_score": 94.0,
-    "spoiler_penalty_applied": 12.0,
-    "final_promo_score": 80.4,
-    "extracted_by": "Google Gemini (gemini-3-flash-preview)",
-    "rejection_reasons": [
-      "Duration Violation: Total duration is 3300s (outside strict 20-60s window)."
-    ]
-  },
-  {
-    "promo_id": "PROMO_EP43_TRAITOR_REVEAL",
+    "promo_id": "PROMO_EP43_TRAITOR_EXPOSED",
     "promo_type": "Continuous",
     "segments": [
       {
         "episode": 43,
-        "start_time": "14:20",
-        "end_time": "71:30",
-        "segment_duration_sec": 3430
+        "start_time": "01:09",
+        "end_time": "02:01",
+        "segment_duration_sec": 52
       }
     ],
-    "total_duration_sec": 3430,
-    "opening_hook_3s": "A Royal Guard Captain snaps a crisp salute to a 'stranger' and refuses the current Duke's order to arrest him.",
-    "cliffhanger_cut": "Alexander towers over the villain, thundering the accusation that he sold his own soldiers to the enemy.",
-    "standalone_clarity_check": "The power shift is clear: the guards switch sides to the true leader, and the villain is exposed as a war criminal through official documents.",
-    "why_it_works": "The 'loyalty shift' beat where guards salute the true king is a top-performing viral hook in microdramas.",
+    "total_duration_sec": 52,
+    "opening_hook_3s": "Alexander towers over the cowering Rupert, shouting 'You sold my men to the enemy!' as the congregation gasps.",
+    "cliffhanger_cut": "The accomplice, Lord Sterling, is caught at the side exit by a stern Constable, his face frozen in pure terror.",
+    "standalone_clarity_check": "The dialogue explicitly explains the crime (selling soldiers to the enemy) and the visual of a man trying to sneak out and being caught is immediately understandable.",
+    "why_it_works": "The high-stakes betrayal reveal and the satisfying moment of a villain being caught mid-escape drives high engagement.",
     "hook_shock_score": 89.0,
-    "cliffhanger_tension_score": 91.0,
-    "standalone_clarity_score": 90.0,
-    "trope_virality_score": 92.0,
+    "cliffhanger_tension_score": 92.0,
+    "standalone_clarity_score": 88.0,
+    "trope_virality_score": 90.0,
     "spoiler_penalty_applied": 12.0,
-    "final_promo_score": 78.25,
+    "final_promo_score": 77.85,
     "extracted_by": "Google Gemini (gemini-3-flash-preview)",
     "rejection_reasons": [
-      "Duration Violation: Total duration is 3430s (outside strict 20-60s window)."
-    ]
-  },
-  {
-    "promo_id": "PROMO_EP45_THE_FALSE_DUCHESS",
-    "promo_type": "Multi-Segment Stitch",
-    "segments": [
-      {
-        "episode": 45,
-        "start_time": "09:00",
-        "end_time": "31:00",
-        "segment_duration_sec": 1320
-      },
-      {
-        "episode": 45,
-        "start_time": "92:00",
-        "end_time": "122:15",
-        "segment_duration_sec": 1815
-      }
-    ],
-    "total_duration_sec": 3135,
-    "opening_hook_3s": "A powerful Duke drops to his knees in a ruined church to personally unlock the iron shackles of a prisoner.",
-    "cliffhanger_cut": "A High Priest declares the marriage invalid, and the villainous bride smiles as the heroine realizes she has no legal protection.",
-    "standalone_clarity_check": "The clip shows a rags-to-riches coronation immediately followed by a legal reversal that puts the heroine back in danger.",
-    "why_it_works": "It delivers the emotional 'payoff' of the hero choosing the poor girl, then immediately snatches it away with a legal cliffhanger.",
-    "hook_shock_score": 94.0,
-    "cliffhanger_tension_score": 96.0,
-    "standalone_clarity_score": 85.0,
-    "trope_virality_score": 95.0,
-    "spoiler_penalty_applied": 12.0,
-    "final_promo_score": 80.95,
-    "extracted_by": "Google Gemini (gemini-3-flash-preview)",
-    "rejection_reasons": [
-      "Duration Violation: Total duration is 3135s (outside strict 20-60s window)."
+      "Late-Funnel Spoiler Risk (Ep 43): Reveals late-series twist that cannibalizes mid-series paywall conversion."
     ]
   },
   {

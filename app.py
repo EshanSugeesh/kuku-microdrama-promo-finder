@@ -78,7 +78,7 @@ def coalesce_contiguous_segments(promo: dict) -> dict:
 
 
 # =====================================================================
-# SIDEBAR: MODEL SWAP & AUTO-NORMALIZED RUBRIC WEIGHTS (SUM = 1.00)
+# SIDEBAR: MODEL SETUP & AUTO-NORMALIZED RUBRIC WEIGHTS (SUM = 1.00)
 # =====================================================================
 with st.sidebar:
     st.header("⚙️ Model Setup")
@@ -88,8 +88,8 @@ with st.sidebar:
         "Google Gemini 3 Flash": ("Google Gemini", "gemini-3-flash-preview"),
         "NVIDIA Nemotron 3.5 Super 120B": ("NVIDIA NIM", "nvidia/nemotron-3.5-super-vl-120b-a12b"),
         "NVIDIA Llama 3.3 70B Instruct": ("NVIDIA NIM", "meta/llama-3.3-70b-instruct"),
-        "OpenAI GPT-4o Mini (Interview Swap)": ("OpenAI", "gpt-4o-mini"),
-        "Anthropic Claude 3.5 Sonnet (Interview Swap)": ("Anthropic", "claude-3-5-sonnet-latest"),
+        "OpenAI GPT-4o Mini": ("OpenAI", "gpt-4o-mini"),
+        "Anthropic Claude 3.5 Sonnet": ("Anthropic", "claude-3-5-sonnet-latest"),
         "Custom Model / Endpoint...": ("Custom", "")
     }
 
@@ -104,7 +104,7 @@ with st.sidebar:
     user_api_key = st.text_input(
         "API Key Override (Optional)",
         type="password",
-        help="Leave blank to use your .env keys (Gemini / NVIDIA), or paste an interviewer's API key to swap models live."
+        help="Leave blank to use configured environment credentials, or paste an API key to switch providers."
     )
 
     resolved_provider, resolved_model, active_api_key = resolve_ui_provider_and_model(
@@ -382,5 +382,5 @@ with tab3:
             st.write("**Segments:**", rej["segments"])
             st.write("**Hook:**", rej["opening_hook_3s"])
             st.write("**Cliffhanger:**", rej["cliffhanger_cut"])
-            st.write("**Initial Rationale:**", rej["why_it_works"])\
+            st.write("**Initial Rationale:**", rej["why_it_works"])
             

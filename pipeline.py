@@ -875,7 +875,6 @@ def call_llm_structured(
 
     cascade_chain: List[Tuple[str, str, str, Optional[str]]] = []
 
-    # 1. If a recruiter pasted a specific non-Gemini override key in the UI, test their key first
     if clean_user_key and clean_user_key != env_gemini and effective_provider != "Google Gemini":
         if effective_provider == "NVIDIA NIM":
             cascade_chain.extend([
